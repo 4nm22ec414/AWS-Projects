@@ -1,5 +1,5 @@
 README: Hosting a Static Website on AWS S3
-Welcome to the quick guide on how to host a static website on AWS S3 (Simple Storage Service). This README provides a summary of the steps outlined in the full article, authored by Kevin Kiruri.
+Welcome to the quick guide on how to host a static website on AWS S3 (Simple Storage Service). This README provides a summary of the steps outlined in the full article, authored by Shreeganesha.
 
 🚀 Introduction
 If you need to host a static website inexpensively, AWS S3 offers an easy, fast, and cost-effective solution. With AWS S3, you only pay for the storage you use, and you can even get up to 5GB of storage free of charge for a year within the AWS Free Tier.
